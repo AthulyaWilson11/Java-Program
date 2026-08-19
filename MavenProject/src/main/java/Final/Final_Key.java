@@ -1,9 +1,11 @@
-package finalKeyword;
+package Final;
 
-public class Final_key_Class {
+
+
+public class Final_Key {
 
 	int c=56;
-	public Final_key_Class() {
+	public Final_Key() {
 		c=57;
 		System.out.println(c);
 	}
@@ -15,7 +17,7 @@ public class Final_key_Class {
 	// 	b=45;
 		System.out.println(a);
 		System.out.println(b);
-		Final_key_Class o=new Final_key_Class();	//object //constructor
+		Final_Key o=new Final_Key();	//object //constructor
 		System.out.println(o.c);	//instance
 	}
 

@@ -13,7 +13,7 @@ public class Son extends Father{
 		o.fname();
 		o.sname();
 		Daughter d=new Daughter();
-		d.fname();
+		//d.fname();
 		d.dname();
 
 
